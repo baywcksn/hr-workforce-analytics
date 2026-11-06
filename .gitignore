@@ -1,0 +1,17 @@
+# Data files
+data/raw/*
+data/processed/*
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Power BI temporary files
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
